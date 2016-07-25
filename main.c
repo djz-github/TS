@@ -6,6 +6,6 @@ void main()
 <<<<<<< HEAD
 	printf("hello linus\n");		
 =======
-	printf("hello linus\n");		
+	printf("linus hello\n");		
 >>>>>>> three
 }
