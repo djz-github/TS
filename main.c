@@ -3,6 +3,5 @@
 void main()
 {
 	printf("hello world\n");	
-	printf("hello linus\n");	
-			
+	printf("hello linus\n");		
 }
